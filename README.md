@@ -1,5 +1,5 @@
 # redstore-woo
-Theme for Red Store
+Theme for Red Store (Woocommerce)
 
 ![](images/redstore_screenshot.PNG)
 
